@@ -6,3 +6,4 @@ git config user.name "Robert McCullough"
 git config user.email "rmccllg4@memphis.edu"
 git "add RobertMcCullough quote"
 git push
+git push -u origin master
